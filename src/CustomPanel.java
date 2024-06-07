@@ -74,7 +74,6 @@ public class CustomPanel {
         // Add panel to frame
         frame.add(panel, BorderLayout.CENTER);
 
-        // Make frame visible
         frame.setVisible(true);
     }
 
